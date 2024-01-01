@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/p-chan-sandbox/release-please-playground/compare/v0.2.0...v0.2.1) (2024-01-01)
+
+
+### Bug Fixes
+
+* remove bikkuri ([c7bfaab](https://github.com/p-chan-sandbox/release-please-playground/commit/c7bfaabe72a1eedc9921d4b4d4cea053ab7d659e))
+
 ## [0.2.0](https://github.com/p-chan-sandbox/release-please-playground/compare/v0.1.0...v0.2.0) (2023-11-17)
 
 
