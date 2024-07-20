@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/p-chan-sandbox/release-please-playground/compare/v0.3.0...v0.4.0) (2024-07-20)
+
+
+### Features
+
+* combine `Hello world` ([34de9d9](https://github.com/p-chan-sandbox/release-please-playground/commit/34de9d9928bb05a0df696685e2e1b4ad68af0701))
+
 ## [0.3.0](https://github.com/p-chan-sandbox/release-please-playground/compare/v0.2.1...v0.3.0) (2024-07-20)
 
 
