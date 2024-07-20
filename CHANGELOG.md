@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/p-chan-sandbox/release-please-playground/compare/v0.4.0...v0.5.0) (2024-07-20)
+
+
+### Features
+
+* add japanese hello world ([2ef7731](https://github.com/p-chan-sandbox/release-please-playground/commit/2ef773167aa81045ab0fff7d3b430401adb8dae4))
+
 ## [0.4.0](https://github.com/p-chan-sandbox/release-please-playground/compare/v0.3.0...v0.4.0) (2024-07-20)
 
 
